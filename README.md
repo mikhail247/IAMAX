@@ -1,7 +1,7 @@
 # IAMAX
 
 This repository contains the supplemental materials released together with the paper 
-"Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies" 
+"[Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies](https://arxiv.org/pdf/2205.01240.pdf)" 
 published at IJCAI-ECAI'22 in Vienna, Austria.
 
 ### Abstract
