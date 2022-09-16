@@ -1,7 +1,7 @@
 # IAMAX
 
 This repository contains the supplemental materials released together with the paper 
-"[Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies](https://arxiv.org/pdf/2205.01240.pdf)" 
+"[Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies](https://www.ijcai.org/proceedings/2022/0257.pdf)" 
 published at IJCAI-ECAI'22 in Vienna, Austria.
 
 ### Abstract
@@ -81,4 +81,22 @@ $ python src/run_iam_experiments.py
 
 ```
 $ python src/visualize.py
+```
+
+### Bibtex
+```
+@inproceedings{ijcai2022p257,
+  title     = {Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies},
+  author    = {Kazdagli, Mikhail and Tiwari, Mohit and Kumar, Akshat},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Lud De Raedt},
+  pages     = {1850--1858},
+  year      = {2022},
+  month     = {7},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2022/257},
+  url       = {https://doi.org/10.24963/ijcai.2022/257},
+}
 ```
